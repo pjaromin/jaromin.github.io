@@ -4,7 +4,7 @@ layout: page
 
 <div class="header-bar">
   <h1>Jaromin Guitars</h1>
-  <h2>simple whitespace theme</h2>
+  <h2>starter site</h2>
   <br/>
   <hr>
   <br/>
